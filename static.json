@@ -1,8 +1,8 @@
 {
     "headers": {
         "/*": {
-            "X-Author": "constantindubo"
+            "X-Author": "constantindubo", 
+            "Access-Control-Allow-Origin": "*"
         }
-
-}
+    }
 }
